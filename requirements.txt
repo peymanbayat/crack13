@@ -1,2 +1,2 @@
 matplotlib
-sklearn
+Scikit-learn == 1.1
