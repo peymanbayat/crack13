@@ -1,3 +1,4 @@
+matplotlib
 altair==4.1.0
 appdirs==1.4.4
 astor==0.8.1
